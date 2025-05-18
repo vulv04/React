@@ -9,6 +9,9 @@ const All = () => {
           <li>
             <Link to="/task44">Task 44</Link>
           </li>
+          <li>
+            <Link to="/task45">Task 45</Link>
+          </li>
         </ul>
       </nav>
     </div>
